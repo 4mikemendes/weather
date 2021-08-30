@@ -1,0 +1,26 @@
+.container {
+    background: #cecfd0b0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+ #city {
+  display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+ }
+.day {
+     margin: 5px;
+    padding: 10px;
+    border: solid 1px;
+    border-radius: 20px;
+    background-color: whitesmoke;
+box-shadow: 1px 4px 8px 0px;
+
+}
